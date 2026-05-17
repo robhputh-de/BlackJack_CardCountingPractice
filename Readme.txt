@@ -1,4 +1,7 @@
 For better readable format, please see "Blackjack Rules and Beginner Card Counting Guide.docx"
+I do this for personal Software Projects:
+
+
 Blackjack Rules and Beginner Card Counting Guide
 Disclaimer
 
@@ -7,6 +10,14 @@ It was written during my spare time as a way to stay mentally active and continu
 
 This game is NOT intended for gambling or financial gain.
 Please play responsibly and understand that gambling always carries risk.
+
+This project uses:
+Python3.12
+PyQt5
+game logic
+probability/statistics
+UI design
+event-driven programming
 
 Basic Blackjack Rules
 Goal of the Game
